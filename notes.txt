@@ -1,0 +1,16 @@
+create folder 
+open the folder 
+open terminal
+run this command
+npx create-react-app .
+
+pkg .joson ki file open
+run the terminal this command
+npm i run start
+
++ p click this commad
+npm web-vitals
+
+this file missing web-vitals
+run the terminal
+npm
